@@ -1,3 +1,3 @@
 ## Welcome wanderson.dev
 
-Bem-vido à wanderson.dev
+Bem-vindo à wanderson.dev
